@@ -476,7 +476,7 @@ figure {
 
   .menu {
     position: fixed;
-    background: #fca402;
+    background: rgba(219, 170, 10, 0.781);
     z-index: 3;
     top: 0;
     left: -100vw;
